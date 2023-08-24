@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me via:</h3>
 <p align="left">
-  <a href="mailto:aniketnanda11@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="aniketnanda11" height="55" width="45" /></a> 
+  <a href="mailto:aniketnanda11@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="aniketnanda11" height="30" width="40" /></a> 
   <a href="https://www.linkedin.com/in/aniket-nanda-94678920a/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="aniket-nanda-94678920a" height="30" width="40" /></a>
