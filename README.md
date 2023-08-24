@@ -8,3 +8,18 @@ Greetings! I am Aniket Nanda...
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<br>
+
+<h3 align="left">Connect with me via:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aniket-nanda-94678920a/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="aniket-nanda-94678920a" height="30" width="40" /></a>
+  <a href="https://instagram.com/nanda.aniket" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="nanda.aniket" height="30" width="40" /></a>
+ <a href="https://twitter.com/AniketNanda14" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="AniketNanda14" height="30" width="40" /></a>
+</p>
