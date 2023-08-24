@@ -1,7 +1,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
-Greetings! I am Aniket Nanda... 
+<h1><b>Greetings! I am Aniket Nanda...</b></h1> 
 
 * A passionate explorer of the world of Computer Science & Engineering.
 * At the moment, I'm immersed in the captivating realm of Web Development, weaving code to craft digital experiences.
