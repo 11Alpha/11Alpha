@@ -4,3 +4,7 @@ Greetings! I am Aniket Nanda...
 * At the moment, I'm immersed in the captivating realm of Web Development, weaving code to craft digital experiences.
 * Exploring new skills each passing day.
 * Let's connect and make the digital world a more creative and entertaining place, one line of code and one bad joke at a time! 🌐🤪
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
