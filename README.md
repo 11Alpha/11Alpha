@@ -2,6 +2,7 @@
 
 <br>
 <h1><b>Greetings! I am Aniket Nanda...</b></h1> 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 * A passionate explorer of the world of Computer Science & Engineering.
 * At the moment, I'm immersed in the captivating realm of Web Development, weaving code to craft digital experiences.
